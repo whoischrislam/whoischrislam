@@ -15,13 +15,13 @@ I think in systems, design in Figma, and ship in TypeScript and Python. I care a
 ### Previously
 
 **Co-Founder & Designer + Engineer @ PlaySesh** *(Jan 2024 – Mar 2026)*
-Built a real-time collaborative design tool for indie game developers inside Discord. Shipped from zero to 3,500+ registered users, 1,302 MAU, 50.5 min avg sessions — fully organic, global.
+Built a real-time collaborative design tool for indie game developers inside Discord. Shipped from zero to 3,500+ registered users, 1,302 MAU, 50.5 min avg sessions — fully organic, no paid growth.
 - Real-time canvas with [tldraw](https://tldraw.dev) sync
 - Cross-platform desktop app with [Tauri](https://tauri.app) (Rust)
 - Cloudflare Workers edge backend, Supabase, Stripe
 
 **Early designer @ Clover Health, GoodRx, doc.ai (Sharecare), StartPlaying (YC W20)**
-Three IPOs. Shipped across product design and engineering in health tech and consumer.
+Designed core product flows at three companies that each went public. Shipped across health tech, consumer, and marketplace products.
 
 ---
 
@@ -37,16 +37,15 @@ Three IPOs. Shipped across product design and engineering in health tech and con
 
 ---
 
-### Looking for
+### Open to the right opportunity
 
-If y30 doesn't pan out, I'm open to:
-- **Founding engineer / early engineer** roles at AI or health tech startups
+I'm heads-down on y30, but I'm also open to the right role:
+- **Founding engineer / early engineer** at an AI or health tech startup
 - **Head of Product** at a company building with voice or LLMs
 - **Fractional product + engineering** for early-stage teams
 
 ---
 
 📍 Honolulu, HI & San Francisco, CA
-🌐 [builtbychrislam.com](https://builtbychrislam.com)
 💼 [linkedin.com/in/whoischrislam](https://linkedin.com/in/whoischrislam)
 📬 whoischrislam@gmail.com
