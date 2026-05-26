@@ -8,7 +8,7 @@ I think in systems, design in Figma, and ship in TypeScript and Python. I care a
 
 ### Currently
 
-**Co-Founder @ [y30](https://y30.app)** — Building AI-powered voice products for older adults and their caregivers. Full-stack: Python agent backend, real-time audio pipelines (LiveKit), React/TypeScript web frontend, Supabase.
+**Co-Founder @ [y30](https://y30.ai)** — Building AI-powered voice products for older adults and their caregivers. Full-stack: Python agent backend, real-time audio pipelines (LiveKit), React/TypeScript web frontend, Supabase.
 
 ---
 
@@ -20,8 +20,8 @@ Built a real-time collaborative design tool for indie game developers inside Dis
 - Cross-platform desktop app with [Tauri](https://tauri.app) (Rust)
 - Cloudflare Workers edge backend, Supabase, Stripe
 
-**Early engineer @ Clover Health, GoodRx, doc.ai (Sharecare), StartPlaying (YC W20)**
-Three IPOs. Shipped across product, design, and engineering in health tech and consumer.
+**Early designer @ Clover Health, GoodRx, doc.ai (Sharecare), StartPlaying (YC W20)**
+Three IPOs. Shipped across product design and engineering in health tech and consumer.
 
 ---
 
