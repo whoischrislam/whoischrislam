@@ -8,7 +8,11 @@ I think in systems, design in Figma, and ship in TypeScript and Python. I care a
 
 ### Currently
 
-**Co-Founder @ [y30](https://y30.ai)** — Building AI-powered voice products for older adults and their caregivers. Full-stack: Python agent backend, real-time audio pipelines (LiveKit), React/TypeScript web frontend, Supabase.
+**Co-Founder @ [y30](https://y30.ai)** — Building AI-powered voice products for older adults and their caregivers.
+
+I've spent years in the unglamorous parts of healthtech — call centers, care coordination handoffs, the places where the gap between the system and the actual person is hardest to ignore. We kept hearing the same thing from caregivers, families, and elders. It felt wrong to sit this one out.
+
+Full-stack: Python agent backend, real-time audio pipelines (LiveKit), React/TypeScript web frontend, Supabase.
 
 ---
 
