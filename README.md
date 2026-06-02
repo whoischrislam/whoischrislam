@@ -1,31 +1,31 @@
 ## Hi, I'm Chris 👋
 
-Founder and product engineer building at the intersection of **AI, voice, and health**.
+**Design Engineer** — 13+ years at the intersection of product, design, and engineering, in healthcare and AI. I design it, build it, and ship it, without a handoff.
 
-I think in systems, design in Figma, and ship in TypeScript and Python. I care about products that are actually used — not just deployed.
+> 👀 **Open to Design Engineer roles — full-time or contract — in voice AI & healthtech.**
+> Reach me at whoischrislam@gmail.com.
+
+I crossed the design→engineering line deliberately: I started as a designer, then went all the way to production code so I could own the full arc from user insight to shipped product. Early employee at three companies that went public — **Clover Health, GoodRx, and Sharecare (doc.ai)**.
 
 ---
 
 ### Currently
 
-**Co-Founder @ [y30](https://y30.ai)** — Building AI-powered voice products for older adults and their caregivers.
-
-I've spent years in the unglamorous parts of healthtech — call centers, care coordination handoffs, the places where the gap between the system and the actual person is hardest to ignore. We kept hearing the same thing from caregivers, families, and elders. It felt wrong to sit this one out.
-
-Full-stack: Python agent backend, real-time audio pipelines (LiveKit), React/TypeScript web frontend, Supabase.
+**Co-Founder & CPTO @ [y30](https://y30.ai)** — voice AI for older adults and their caregivers. Python agent backend, real-time audio (LiveKit), React/TypeScript, Supabase. My current proof that I can take a voice-AI product 0→1: design, agent architecture, and shipped code.
 
 ---
 
-### Previously
+### The healthcare thread
 
-**Co-Founder & Designer + Engineer @ PlaySesh** *(Jan 2024 – Mar 2026)*
-Built a real-time collaborative design tool for indie game developers inside Discord. Shipped from zero to 3,500+ registered users, 1,302 MAU, 50.5 min avg sessions — fully organic, no paid growth.
-- Real-time canvas with [tldraw](https://tldraw.dev) sync
-- Cross-platform desktop app with [Tauri](https://tauri.app) (Rust)
-- Cloudflare Workers edge backend, Supabase, Stripe
+- **Clover Health** — Lead Product Designer (2nd designer). Rebuilt the nurse home-visit experience → ~7–8× revenue per visit. *IPO*
+- **Iodine / GoodRx** — Lead Product Designer. Coupon conversion 2% → 5%; dataviz cited in NYT, Good Morning America & ABC; Webby '18. *IPO*
+- **Sharecare (doc.ai)** — Lead Product Designer. Rescued a clinical-studies product mid-acquisition. *IPO*
 
-**Early designer @ Clover Health, GoodRx, doc.ai (Sharecare), StartPlaying (YC W20)**
-Designed core product flows at three companies that each went public. Shipped across health tech, consumer, and marketplace products.
+---
+
+### Also
+
+Pathstream (edtech) · StartPlaying (YC, marketplace) · Modus Create (software engineering, Atlassian) · Amazon · TaskRabbit. Most recently co-founded **PlaySesh** (collaborative design tool for game devs, ~5,000 organic users).
 
 ---
 
@@ -33,23 +33,12 @@ Designed core product flows at three companies that each went public. Shipped ac
 
 | Layer | Stack |
 |---|---|
-| AI Agents | Python, LiveKit Agents, Anthropic, OpenAI, Groq, Deepgram, Cartesia |
+| AI / Voice | Python, LiveKit Agents, Anthropic, OpenAI, Groq, Deepgram, Cartesia |
 | Web | TypeScript, React, Vite, Supabase, Cloudflare Workers |
-| Desktop | Tauri (Rust), Monaco Editor |
-| Infra | Docker, Vercel, Supabase, GitHub Actions |
-| Design | Figma, tldraw |
+| Design | Figma, design systems, prototyping |
+| Infra | Docker, Vercel, GitHub Actions |
 
 ---
 
-### Open to the right opportunity
-
-I'm heads-down on y30, but I'm also open to the right role:
-- **Founding engineer / early engineer** at an AI or health tech startup
-- **Head of Product** at a company building with voice or LLMs
-- **Fractional product + engineering** for early-stage teams
-
----
-
-📍 Honolulu, HI & San Francisco, CA
-💼 [linkedin.com/in/whoischrislam](https://linkedin.com/in/whoischrislam)
-📬 whoischrislam@gmail.com
+📍 Honolulu, HI 🌺 · Remote, with Bay Area sprints
+🔗 [LinkedIn](https://linkedin.com/in/whoischrislam) · whoischrislam@gmail.com
