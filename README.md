@@ -18,7 +18,7 @@ At **y30**, practical voice AI for older adults and their caregivers:
 
 14 years across product, design, and engineering. Early employee at three IPOs plus an acquisition.
 
-- **Co-founder, PlaySesh.** Started as a social gaming play against loneliness, then pivoted to a real-time collaborative design tool for indie game devs inside Discord. Grew to ~5,000 users, 1,302 MAU, and 50-minute average sessions, fully organic.
+- **Co-founder & CEO, PlaySesh.** Built the first version solo in Vanilla JS, Express, and Supabase, then recruited two co-founders to grow it. Started as a social gaming play against loneliness, then pivoted to a real-time collaborative design tool for indie game devs inside Discord. Grew to ~5,000 users, 1,302 MAU, and 50-minute average sessions, fully organic.
 - **GoodRx / Iodine.** Sole designer, pre-IPO. Took coupon conversion from 2% to 5%; data viz featured on ABC News and Good Morning America.
 - **Clover Health.** 2nd designer, pre-IPO. Rebuilt the nurse home-visit tool for roughly 7–8× revenue impact.
 - **doc.ai / Sharecare, Amazon, and TaskRabbit (acquired by IKEA),** plus other 0→1 and growth-stage work.
