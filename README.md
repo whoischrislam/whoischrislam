@@ -4,6 +4,8 @@ Founder and product engineer building **y30** — voice-based elder care infrast
 
 I work at the intersection of product, design, and engineering: shaping the user experience, building the system, and shipping the thing end to end.
 
+> 👀 **Open to Design Engineer / product-engineering roles in voice AI & healthtech** — full-time or contract. [whoischrislam@gmail.com](mailto:whoischrislam@gmail.com)
+
 ## Building now
 
 At **y30**, the focus is practical voice AI for older adults and their caregivers:
