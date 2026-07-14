@@ -1,6 +1,6 @@
 # Hi, I'm Chris Lam
 
-  Product engineer and designer building **y30**, voice AI for older adults and their caregivers. I design it, build it, and ship it, no handoff.
+  Design-trained senior product engineer building **y30**, voice AI for older adults and their caregivers. I started as a designer. Now I build the whole thing, no handoff.
 
   I work at the intersection of product, design, and engineering, and I use AI as a force multiplier to move fast while owning the architecture and product calls.
 
