@@ -1,6 +1,6 @@
 # Hi, I'm Chris Lam
 
-  Design-trained senior product engineer building **y30**, voice AI for older adults and their caregivers. I started as a designer. Now I build the whole thing, no handoff.
+  Product design engineer building **y30**, voice AI for older adults and their caregivers. I started as a designer. Now I build the whole thing, no handoff.
 
   I work at the intersection of product, design, and engineering, and I use AI as a force multiplier to move fast while owning the architecture and product calls.
 
@@ -16,11 +16,11 @@
 
   ## Background
 
-  14 years across product, design, and engineering. First, sole, or early at startups that went on to IPO or get acquired.
+  14 years across product, design, and engineering. Repeatedly the first, sole, or early hire at the stage where the product got decided.
 
   - **Co-founder & CEO, PlaySesh.** Built the first version solo in Vanilla JS, Express, and Supabase, then recruited two co-founders to grow it. Started as a social gaming play
-  against loneliness, then pivoted to a real-time collaborative design tool for indie game devs inside Discord. Grew to 5,120 users across 121 servers, 1,302 MAU, and 50-minute
-  average sessions, fully organic.
+  against loneliness, then pivoted to a real-time collaborative design tool for indie game devs inside Discord. Grew organically to 6,220 authorized Discord accounts and 138
+  server installs, peaking at 1,043 monthly active users in January 2026. Discord counts as of August 1, 2026.
   - **GoodRx / Iodine.** First full-time designer, pre-IPO. Took coupon conversion from 2% to 5%; data viz featured on Good Morning America and ABC News.
   - **Clover Health.** 2nd designer, pre-IPO. Rebuilt the nurse home-visit tool for roughly 7–8× revenue impact.
   - **doc.ai / Sharecare, Amazon, and TaskRabbit (acquired by IKEA),** plus other 0→1 and growth-stage work.
@@ -37,6 +37,6 @@
   - Portfolio: [whoischrislam.github.io](https://whoischrislam.github.io)
   - LinkedIn: [linkedin.com/in/whoischrislam](https://linkedin.com/in/whoischrislam)
   - Email: [whoischrislam@gmail.com](mailto:whoischrislam@gmail.com)
-  - Based in Honolulu, with focused build sprints in San Francisco.
+  - Remote US, based in Honolulu. I work West Coast hours and travel to the Bay Area or Seattle quarterly.
 
   Outside work: board games (I'm designing one), 20+ years dancing, and roller skating.
