@@ -18,9 +18,9 @@
 
   14 years across product, design, and engineering. Repeatedly the first, sole, or early hire at the stage where the product got decided.
 
-  - **Co-founder & CEO, PlaySesh.** Built the first version solo in Vanilla JS, Express, and Supabase, then recruited two co-founders to grow it. Started as a social gaming play
-  against loneliness, then pivoted to a real-time collaborative design tool for indie game devs inside Discord. Grew organically to 6,220 authorized Discord accounts and 138
-  server installs, peaking at 1,043 monthly active users in January 2026. Discord counts as of August 1, 2026.
+  - **Co-founder & CEO, PlaySesh.** Built the first version solo in Vanilla JS, Express, and Supabase, then brought on two co-founders to grow it. Started as a social gaming play
+  against loneliness, then pivoted to a real-time collaborative design tool for indie game devs inside Discord. Grew organically to over 6,200 authorized Discord accounts and 138
+  server installs, peaking at 1,043 monthly active users in January 2026. Discord counts are approximate, as of August 1, 2026.
   - **GoodRx / Iodine.** First full-time designer, pre-IPO. Took coupon conversion from 2% to 5%; data viz featured on Good Morning America and ABC News.
   - **Clover Health.** 2nd designer, pre-IPO. Rebuilt the nurse home-visit tool for roughly 7–8× revenue impact.
   - **doc.ai / Sharecare, Amazon, and TaskRabbit (acquired by IKEA),** plus other 0→1 and growth-stage work.
